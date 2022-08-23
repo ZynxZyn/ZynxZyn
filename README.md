@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://zyn.epizy.com)
+[![MasterHead](https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif)](https://zyn.epizy.com)
 <h1 align="left">Hi 👋, I'm Nazihan</h1>
 <h3 align="left">I am a student who wants to be a software engineer</h3>
 
