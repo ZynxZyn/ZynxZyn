@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?q=Programmer%20GIF&FORM=IQFRBA&id=32E4D5B8DEF4D21131B4D2E49B5D08F67B5F0251)](https://zyn.epizy.com)
+[![MasterHead](https://dribbble.com/shots/3848914-Programmer-Thomas)](https://zyn.epizy.com)
 <h1 align="left">Hi 👋, I'm Nazihan</h1>
 <h3 align="left">I am a student who wants to be a software engineer</h3>
 
