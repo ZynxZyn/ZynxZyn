@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nazihan</h1>
-<h3 align="left">I am a student who wants to be a software engineer</h3>
+<h3 align="left">Only a kid who wants to be a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynxzyn&label=Profile%20views&color=0e75b6&style=flat" alt="zynxzyn" /> </p>
 
